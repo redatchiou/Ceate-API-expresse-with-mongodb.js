@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "idEquipe": 1,
+      "nom": "Joueur 1",
+      "numero": 10,
+      "poste": "Attaquant"
+    },
+    {
+      "id": 2,
+      "idEquipe": 2,
+      "nom": "Joueur 2",
+      "numero": 7,
+      "poste": "Milieu"
+    },
+    {
+      "id": 3,
+      "idEquipe": 1,
+      "nom": "Joueur 3",
+      "numero": 4,
+      "poste": "Défenseur"
+    },
+    {
+      "id": 4,
+      "idEquipe": 3,
+      "nom": "Joueur 4",
+      "numero": 9,
+      "poste": "Attaquant"
+    },
+    {
+      "id": 5,
+      "idEquipe": 2,
+      "nom": "Joueur 5",
+      "numero": 6,
+      "poste": "Milieu"
+    },
+    {
+      "id": 6,
+      "idEquipe": 3,
+      "nom": "Joueur 6",
+      "numero": 3,
+      "poste": "Défenseur"
+    },
+    {
+      "id": 7,
+      "idEquipe": 1,
+      "nom": "Joueur 7",
+      "numero": 8,
+      "poste": "Attaquant"
+    },
+    {
+      "id": 8,
+      "idEquipe": 3,
+      "nom": "Joueur 8",
+      "numero": 5,
+      "poste": "Milieu"
+    },
+    {
+      "id": 9,
+      "idEquipe": 2,
+      "nom": "Joueur 9",
+      "numero": 2,
+      "poste": "Défenseur"
+    },
+    {
+      "id": 10,
+      "idEquipe": 1,
+      "nom": "Joueur 10",
+      "numero": 7,
+      "poste": "Milieu"
+    }
+  ]
+  
