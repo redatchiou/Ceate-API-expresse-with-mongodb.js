@@ -22,13 +22,10 @@ app.listen(82, async function() {
   try {
     await connectToMongoDB();
     console.log('Server started and connected to MongoDB');
-
   } catch (err) {
     console.error('Error starting the server:', err);
   }
 });
-
-
 // show
 app.get('/equipes', async (req, res) => {
     try {
@@ -55,10 +52,8 @@ app.get('/equipes/:id', async (req, res) => {
   app.post('/equipes/', async (req, res) => {
     console.log(req.body);
        db.collection('equipe').insertOne(req.body);
-      res.status(200).json(req.body);
-   
+      res.status(200).json(req.body);  
   });
-
 //   delete
 app.delete('/equipes/:id', async (req, res) => {
     const id = parseInt(req.params.id)
